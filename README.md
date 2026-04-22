@@ -1544,10 +1544,10 @@ Te amo mt meu pinguinzinho🐧❤️ /p>
                 <img src="mphotos.jpg" alt="Lembrança querida" onerror="this.style.display='none'; this.parentNode.innerHTML='🌹<br><small>Foto 3</small>';">
             </div>
             <div class="photo-frame">
-                <img src="img/README.md" alt="Nosso amor" onerror="this.style.display='none'; this.parentNode.innerHTML='✨<br><small>Foto 4</small>';">
+                <img src="photos.jpg" alt="Nosso amor" onerror="this.style.display='none'; this.parentNode.innerHTML='✨<br><small>Foto 4</small>';">
             </div>
             <div class="photo-frame">
-                <img src="" alt="Momento único" onerror="this.style.display='none'; this.parentNode.innerHTML='💖<br><small>Foto 5</small>';">
+                <img src="photoss.jpg" alt="Momento único" onerror="this.style.display='none'; this.parentNode.innerHTML='💖<br><small>Foto 5</small>';">
             </div>
             <div class="photo-frame">
                 <img src="ma.jpg" alt="Para sempre" onerror="this.style.display='none'; this.parentNode.innerHTML='🥰<br><small>Foto 6</small>';">
